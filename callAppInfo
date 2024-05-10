@@ -1,6 +1,6 @@
 {
-      "adEnable"                : true,
+      "adEnable"                : false,
       "appEnable"               : true,
-      "timer"                   : 180000000,
-      "channelLink"             : "https://t.me/PacketVPNService"            
+      "timer"                   : 999999,
+      "channelLink"             : "https://t.me/BugFreeNet"            
 }
