@@ -1,5 +1,5 @@
 {
-      "adEnable"                : false,
+      "adEnable"                : true,
       "appEnable"               : true,
       "timer"                   : 9900000,
       "channelLink"             : "https://t.me/BugFreeNet"            
