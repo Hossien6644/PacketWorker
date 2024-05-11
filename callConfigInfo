@@ -1,11 +1,11 @@
 {   
     "delay"   : false,
-    "note"    : "کاربران گرامی اختلال اینترنت بسیار بالا می باشد لطفا به پینگ سرور ها توجه نکنید سرها فعال هستند",
+    "note"    :" @BugFreeNet.کاربر گرامی این اپلیکیشن توسط چنل باگ فری نت مود شده است لطفاً برای حمایت از ما داخل آن عضو شوید",
     "configs" : [
 		{
 		    "id"          : 1,
-                    "symbol"      : "US",
-                    "countryName" : "USA",
+                    "symbol"      : "CA",
+                    "countryName" : "VIPSERVER",
                     "ping"        : 0,
                     "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@uCnA.aC.iR.:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=h2&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M111"
                 },
