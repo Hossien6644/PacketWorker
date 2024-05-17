@@ -5,9 +5,9 @@
 		{
 		    "id"          : 1,
                     "symbol"      : "US",
-                    "countryName" : "VIPSERVER1",
+                    "countryName" : "VIPSERVER1(Mci)",
                     "ping"        : 0,
-                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@uCnA.aC.iR.:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=MeHrDaD-6Ut.PaGeS.DEv.&fp=randomized&type=ws&sni=MeHrDaD-6Ut.PaGeS.DEv.#SERVER+BY+BUGFREENET"
+                    "config"      : "vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@ip.ai-app-list.buzz:2052?path=%2F&security=none&encryption=none&host=GgRyXuVj21.mIdJuRnEy.oRg&type=ws#MCI+BUGFREENET"
                 
                 },
 		{
