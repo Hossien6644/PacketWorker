@@ -16,7 +16,16 @@
                     "countryName" : "VIPSERVER2",
                     "ping"        : 0,
                     "config"      : "vless://f610edd0-1915-42f9-9b98-ed69a7c21e9d@vip-s2.iranitmans.com:10082?path=%2F&security=none&encryption=none&type=ws#SERVER+BY+BUGFREENET" 
-                }
+                },
+        
+		{
+		    "id"          : 3,
+                    "symbol"      : "US",
+                    "countryName" : "VIPSERVER3",
+                    "ping"        : 0,
+                    "config"      : "vless://15a01859-2c65-4a12-a52f-ddeacd057652@zula.ir:80?path=%2Fasrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.6.buybikeshop.COM.&type=ws#SERVER+BY+BUGFREENET" 
+                },
+	
 	
 		
    ]
