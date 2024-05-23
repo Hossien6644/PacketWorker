@@ -1,31 +1,148 @@
 {   
-    "delay"   : 05000,
+    "delay"   : 04000,
     "note"    : "@BugFreeNet کاربر گرامی این اپلیکیشن توسط چنل باگ فری نت مود شده است لطفاً برای حمایت از ما داخل آن عضو شوید",
     "configs" : [
 		{
 		    "id"          : 1,
                     "symbol"      : "US",
-                    "countryName" : "VIPSERVER1(Mci)",
+                    "countryName" : "Server Vip1",
                     "ping"        : 0,
-                    "config"      : "vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@ip.ai-app-list.buzz:2052?path=%2F&security=none&encryption=none&host=GgRyXuVj21.mIdJuRnEy.oRg&type=ws#MCI+BUGFREENET"
-                
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@hYjKlJHGfesDAwfryHG4586FDs4gH65rD4xG564xg64xD4g1564g156X4g1564D.HArlee23.wORkERS.dEV:443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#Mt"
                 },
 		{
 		    "id"          : 2,
                     "symbol"      : "US",
-                    "countryName" : "VIPSERVER2",
+                    "countryName" : "Server Vip2",
                     "ping"        : 0,
-                    "config"      : "vless://f610edd0-1915-42f9-9b98-ed69a7c21e9d@vip-s2.iranitmans.com:10082?path=%2F&security=none&encryption=none&type=ws#SERVER+BY+BUGFREENET" 
+                    "config"      : "trojan://ORUyjd100o@134.209.38.96:443?security=tls&sni=1.尼亞團員1尼亞團員2尼亞團員3尼亞團亞團員尼亞團尼亞團亞團員亞團員員亞團亞團員亞團員.com.&alpn=http%2F1.1&fp=randomized&type=ws&host=happy.mappy.new.1403.rooz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2F%3Fed%3D2048#AM7"
+ 
                 },
-        
 		{
 		    "id"          : 3,
                     "symbol"      : "US",
-                    "countryName" : "VIPSERVER3",
+                    "countryName" : "Server Vip3",
                     "ping"        : 0,
-                    "config"      : "vless://15a01859-2c65-4a12-a52f-ddeacd057652@zula.ir:80?path=%2Fasrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%2Casrnovin-ArV2ray%3Fed%3D2048&security=none&encryption=none&host=cloudmehranmmdv2ray.v2rayng6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.6.buybikeshop.COM.&type=ws#SERVER+BY+BUGFREENET" 
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS2.diGitAloCEan.CoM:2083?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M2"
                 },
-	
+		{
+		    "id"          : 4,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip4",
+                    "ping"        : 0,
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@nS1.diGitAloCEan.CoM.:2096?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M4"
+                },
+		{
+		    "id"          : 5,
+                    "symbol"      : "FR",
+                    "countryName" : "Server Vip5",
+                    "ping"        : 0,
+		    "config"      : "vless://e2f40fc3-2042-431e-88e4-ddb5eff87755@66.211.168.255:80?encryption=none&security=none&type=ws&host=xn--79qx8ba99ki81a28qfpy95inp5e.com.&path=%2Fxui#F22"
+                }, 
+		{
+		    "id"          : 6,
+                    "symbol"      : "NL",
+                    "countryName" : "Server Vip6",
+                    "ping"        : 0,
+                    "config"      : "trojan://06ZKcrtRJI@nS1.diGitAloCEan.CoM:8880?security=none&sni=happy.mappy.new.1403.rooz2.叔叔穆罕默德21歲出售.store.&type=ws&host=Happy.MapPy.new.1403.roOz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sTore.&path=%2Fxui9812#84u2yoa3z" 
+                },
+		{
+		    "id"          : 7,
+                    "symbol"      : "DE",
+                    "countryName" : "Server Vip7",
+                    "ping"        : 0,
+                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@nS3.diGitAloCEan.CoM:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#96"
+                },
+		{
+		    "id"          : 8,
+                    "symbol"      : "SW",
+                    "countryName" : "Server Vip8",
+                    "ping"        : 0,
+                    "config"      : "vless://d2a5f8bc-a19c-4b21-c086-ef00599460f1@nS3.diGitAloCEan.CoM:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Fwesfdhgjgfesdrtfghjgfdsrewsgfhfdswasedfcgdsedxfcg#xuklx57on"
+                },
+		{
+		    "id"          : 9,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip9",
+                    "ping"        : 0,
+                    "config"      : "trojan://f8japQehQn@nS1.diGitAloCEan.CoM.:8880?security=none&type=ws&host=happy.mappy.new.1403.rooz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fxui001#Test-ymbvhel69" 
+                },
+		{
+		    "id"          : 10,
+                    "symbol"      : "CA",
+                    "countryName" : "Server Vip10",
+                    "ping"        : 0,
+                    "config"      : "trojan://67Otq4AtTO@gCoRe.CoM:443?security=tls&sni=2001:4860:4860:0:0:0:0:8844&alpn=http%2F1.1&fp=randomized&type=ws&host=iran-qeshm.ir&path=%2F#Packet%2BVPN%2BTro" 
+                },
+		{
+		    "id"          : 11,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip11",
+                    "ping"        : 0,
+                    "config"      : "vless://32d8667e-4d5f-499a-9e88-ae4ba318d8fd@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#7jtttrqn" 
+                },
+		{
+		    "id"          : 12,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip12",
+                    "ping"        : 0,
+                    "config"      : "vless://32d8667e-4d5f-499a-9e88-ae4ba318d8fd@146.19.215.112:80?encryption=none&security=none&type=tcp&headerType=none#7jtttrqn" 
+                },
+		{
+		    "id"          : 13,
+                    "symbol"      : "DE",
+                    "countryName" : "Server Vip13",
+                    "ping"        : 0,
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@188.114.96.6:2083?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M22" 
+                },
+		{
+		    "id"          : 14,
+                    "symbol"      : "FR",
+                    "countryName" : "Server Vip14",
+                    "ping"        : 0,
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@188.114.96.3:2096?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M44" 
+                },
+		{
+		    "id"          : 15,
+                    "symbol"      : "NL",
+                    "countryName" : "Server Vip15",
+                    "ping"        : 0,
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@188.114.97.6:8443?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M45" 
+                },
+		{
+		    "id"          : 16,
+                    "symbol"      : "UK",
+                    "countryName" : "Server Vip16",
+                    "ping"        : 0,
+                    "config"      : "vless://a8374247-0715-4509-a3c5-3f01842503e2@188.114.97.3:2053?encryption=none&security=tls&sni=MeHrDaD-6Ut.PaGeS.DEv.&alpn=http%2F1.1&fp=randomized&type=ws&host=MeHrDaD-6Ut.PaGeS.DEv.&path=%2F%3Fed%3D2048#M46" 
+                },
+		{
+		    "id"          : 17,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip17",
+                    "ping"        : 0,
+                    "config"      : "trojan://06ZKcrtRJI@188.114.96.6:8880?security=none&sni=happy.mappy.new.1403.rooz2.叔叔穆罕默德21歲出售.store.&type=ws&host=Happy.MapPy.new.1403.roOz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sTore.&path=%2Fxui9812#u2yoa3z" 
+                },
+		{
+		    "id"          : 18,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip18",
+                    "ping"        : 0,
+                    "config"      : "vless://cdc0116a-ac6c-4bfd-dd0b-851f1e070a7a@188.114.96.3:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Frehjkl#96666" 
+                },
+		{
+		    "id"          : 19,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip19",
+                    "ping"        : 0,
+                    "config"      : "vless://d2a5f8bc-a19c-4b21-c086-ef00599460f1@188.114.97.6:80?encryption=none&security=none&type=ws&host=hAppy.maPpy.NEw.1403.roOz2.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.sToRe.&path=%2Fwesfdhgjgfesdrtfghjgfdsrewsgfhfdswasedfcgdsedxfcg#xuklx57" 
+                },
+		{
+		    "id"          : 20,
+                    "symbol"      : "US",
+                    "countryName" : "Server Vip20",
+                    "ping"        : 0,
+                    "config"      : "trojan://f8japQehQn@188.114.97.3:8880?security=none&type=ws&host=happy.mappy.new.1403.rooz1.%E5%8F%94%E5%8F%94%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B721%E6%AD%B2%E5%87%BA%E5%94%AE.store.&path=%2Fxui001#mbvhel69" 
+                }
 	
 		
    ]
